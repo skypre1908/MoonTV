@@ -2,88 +2,139 @@
   "cache_time": 7200,
   "api_site": {
     "dyttzy": {
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "name": "电影天堂资源",
+      "api": "https://movie.songav.com/c2t/index.php/dyttzy",
+      "name": "電影天堂",
       "detail": "http://caiji.dyttzyapi.com"
     },
     "heimuer": {
-      "api": "https://json.heimuer.xyz/api.php/provide/vod",
+      "api": "https://movie.songav.com/c2t/index.php/heimuer",
       "name": "黑木耳",
-      "detail": "https://heimuer.tv"
+      "detail": "https://json.heimuer.xyz"
     },
     "ruyi": {
-      "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "name": "如意资源"
+      "api": "https://movie.songav.com/c2t/index.php/ruyi",
+      "name": "如意資源",
+      "detail": "https://cj.rycjapi.com"
     },
     "bfzy": {
-      "api": "https://bfzyapi.com/api.php/provide/vod",
-      "name": "暴风资源"
+      "api": "https://movie.songav.com/c2t/index.php/bfzy",
+      "name": "暴風資源",
+      "detail": "https://bfzyapi.com"
     },
     "tyyszy": {
-      "api": "https://tyyszy.com/api.php/provide/vod",
-      "name": "天涯资源"
+      "api": "https://movie.songav.com/c2t/index.php/tyyszy",
+      "name": "天涯資源",
+      "detail": "https://tyyszy.com"
     },
     "ffzy": {
-      "api": "http://ffzy5.tv/api.php/provide/vod",
-      "name": "非凡影视",
+      "api": "https://movie.songav.com/c2t/index.php/ffzy",
+      "name": "非凡影視",
       "detail": "http://ffzy5.tv"
     },
     "zy360": {
-      "api": "https://360zy.com/api.php/provide/vod",
-      "name": "360资源"
+      "api": "https://movie.songav.com/c2t/index.php/zy360",
+      "name": "360資源",
+      "detail": "https://360zy.com"
     },
     "maotaizy": {
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-      "name": "茅台资源"
+      "api": "https://movie.songav.com/c2t/index.php/maotaizy",
+      "name": "茅台資源",
+      "detail": "https://caiji.maotaizy.cc"
     },
     "wolong": {
-      "api": "https://wolongzyw.com/api.php/provide/vod",
-      "name": "卧龙资源"
+      "api": "https://movie.songav.com/c2t/index.php/wolong",
+      "name": "臥龍資源",
+      "detail": "https://wolongzyw.com"
     },
     "jisu": {
-      "api": "https://jszyapi.com/api.php/provide/vod",
-      "name": "极速资源",
+      "api": "https://movie.songav.com/c2t/index.php/jisu",
+      "name": "極速資源",
       "detail": "https://jszyapi.com"
     },
     "dbzy": {
-      "api": "https://dbzy.tv/api.php/provide/vod",
-      "name": "豆瓣资源"
+      "api": "https://movie.songav.com/c2t/index.php/dbzy",
+      "name": "豆瓣資源",
+      "detail": "https://dbzy.tv"
     },
     "mozhua": {
-      "api": "https://mozhuazy.com/api.php/provide/vod",
-      "name": "魔爪资源"
+      "api": "https://movie.songav.com/c2t/index.php/mozhua",
+      "name": "魔爪資源",
+      "detail": "https://mozhuazy.com"
     },
     "mdzy": {
-      "api": "https://www.mdzyapi.com/api.php/provide/vod",
-      "name": "魔都资源"
+      "api": "https://movie.songav.com/c2t/index.php/mdzy",
+      "name": "魔都資源",
+      "detail": "https://www.mdzyapi.com"
     },
     "zuid": {
-      "api": "https://api.zuidapi.com/api.php/provide/vod",
-      "name": "最大资源"
+      "api": "https://movie.songav.com/c2t/index.php/zuid",
+      "name": "最大資源",
+      "detail": "https://api.zuidapi.com"
     },
     "yinghua": {
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
-      "name": "樱花资源"
+      "api": "https://movie.songav.com/c2t/index.php/yinghua",
+      "name": "櫻花資源",
+      "detail": "https://m3u8.apiyhzy.com"
     },
     "wujin": {
-      "api": "https://api.wujinapi.me/api.php/provide/vod",
-      "name": "无尽资源"
+      "api": "https://movie.songav.com/c2t/index.php/wujin",
+      "name": "無盡資源",
+      "detail": "https://api.wujinapi.me"
     },
     "wwzy": {
-      "api": "https://wwzy.tv/api.php/provide/vod",
-      "name": "旺旺短剧"
+      "api": "https://movie.songav.com/c2t/index.php/wwzy",
+      "name": "旺旺短劇",
+      "detail": "https://wwzy.tv"
     },
     "ikun": {
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "name": "iKun资源"
+      "api": "https://movie.songav.com/c2t/index.php/ikun",
+      "name": "iKun資源",
+      "detail": "https://ikunzyapi.com"
     },
     "lzi": {
-      "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "name": "量子资源站"
+      "api": "https://movie.songav.com/c2t/index.php/lzi",
+      "name": "量子資源",
+      "detail": "https://cj.lziapi.com"
     },
-    "xiaomaomi": {
-      "api": "https://zy.xmm.hk/api.php/provide/vod",
-      "name": "小猫咪资源"
+    "xmm": {
+      "api": "https://movie.songav.com/c2t/index.php/xmm",
+      "name": "小貓咪",
+      "detail": "https://zy.xmm.hk"
+    },
+    "suoni": {
+      "api": "https://movie.songav.com/c2t/index.php/suoni",
+      "name": "索尼資源",
+      "detail": "https://suoniapi.com"
+    },
+    "niuniu": {
+      "api": "https://movie.songav.com/c2t/index.php/niuniu",
+      "name": "牛牛資源",
+      "detail": "https://api.niuniuzy.me"
+    },
+    "sdzy": {
+      "api": "https://movie.songav.com/c2t/index.php/sdzy",
+      "name": "新閃電資源",
+      "detail": "https://xsd.sdzyapi.com"
+    },
+    "yaya": {
+      "api": "https://movie.songav.com/c2t/index.php/yaya",
+      "name": "鴨鴨資源",
+      "detail": "https://cj.yayazy.net"
+    },
+	"yutu": {
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "name": "18禁 X 玉兔資源",
+      "detail": "https://yutuzy.com/"
+    },
+	"semao": {
+      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+      "name": "18禁 X 色貓資源",
+      "detail": "https://semaozy1.com/"
+    },
+	"xingba": {
+      "api": "https://xingba111.com/api.php/provide/vod",
+      "name": "18禁 X 杏吧資源",
+      "detail": "https://xingba111.com/"
     }
   }
 }
