@@ -135,6 +135,11 @@
       "api": "https://xingba111.com/api.php/provide/vod",
       "name": "18禁 X 杏吧資源",
       "detail": "https://xingba111.com/"
+    },
+	"fqzy": {
+      "api": "https://fqzy.me//api.php/provide/vod",
+      "name": "18禁 X 番茄資源",
+      "detail": "https://fqzy.me/"
     }
   }
 }
